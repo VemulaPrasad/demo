@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"watchListData":[{"trackingNumber":"523176975","description":null,"actionRequiredLblKey":null,"viewDetailsLblKey":"cms.stapp.viewDetails","packageStatusIconType":"Exception","packageStatusDescription":"","leftAtInfo":null,"packageStatusDateInfo":{"packageStatusDateLblKey":"cms.stapp.scheduledDelivery","packageStatusDate":"10/09","packageStatusDateAndYear":"10/09/2012","packageStatusTime":"11:59 A.M.","packageStatusTimeEodLblKey":null},"packageNoStatusDateLblKey":null,"packageNoInfoFoundLblKey":null,"statusCode":null,"statusDescription":null,"isInWatchList":true}]
